@@ -1,0 +1,13 @@
+body {
+background-color: Tomato;
+}
+
+p,h1 {
+	
+    color: Blue;
+    margin-left: 20px;
+}
+
+p1{
+	color: Yellow;
+}
