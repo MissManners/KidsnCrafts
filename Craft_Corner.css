@@ -1,13 +1,68 @@
 body {
-background-color: Tomato;
+background-image: url("https://drive.google.com/uc?id=1FqmLOu2fQpBREC5hutnPGcDUsf0SKfYq");
+background-repeat: no-repeat;
+background-size: 100% 100%;
 }
-
-p,h1 {
-	
-    color: Blue;
-    margin-left: 20px;
+* {
+    box-sizing: border-box;
 }
-
+#main-wrap{
+	overflow: hidden;
+}
+#header,
+#footer {
+	min-height: 40px;
+}
+.column {
+    float: left;
+    width: 33.33%;
+	height: auto;
+    padding: 5px;
+}
+.column-right{
+	float: right;
+	width: 50%;
+	height: auto;
+	padding: 5px;
+}
+.container {
+        float: left;
+        width: 40%;
+        display: inline-block;
+    }
+/* Clearfix (clear floats) */
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.img-center-circle {
+	display: block;
+    border-radius: 50%;
+	margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.text-container{
+	width:100%;
+	background-image: url("https://drive.google.com/uc?id=1fPkhpGjKaN_oInz5vmJmhzSShADbymGM");
+}
+h1 {
+    color: orange;
+    text-align: center;
+}
+p{
+	color: Blue;
+}
 p1{
-	color: Yellow;
+	color: light-blue;
+}
+p2{
+	color: green;
 }
