@@ -4,38 +4,22 @@
 	<link rel="stylesheet" type="text/css" href="Craft_Corner.css">
 </head>
 <body>
-<div class="row">
-  <div class="column">
-    <img src="https://drive.google.com/uc?id=1VHGp8QbsojeY0voYtQj6SatoQL-G0u0X" alt="Fjords" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://drive.google.com/uc?id=0Bw31lrAMa7gyWjV3azhuRG1OdWs" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://drive.google.com/uc?id=1WCRCDhnAOdf7ehi2z_CFPyqpohjT0UxI" alt="Mountains" style="width:100%">
-  </div>
-</div>
-
-<div class="text-container">
-<h1> Welcome to my website! <br> Here, I showcase my projects that I've made!<br> I also take custom orders
-on reasonable projects. I specialize in tiny crafts, from kitchenware to dolls and journals! </h1>
-</div>
-<div class="row">
-	<div class="column">
-		<img class="img-center-circle" src="https://drive.google.com/uc?id=1xv2IBA5-T8JQkRe1ORojxo1nV7qxxCd4" alt=""/></img>
+	<div class="container">
+	<div class="leftpane">
+    <h1>Test Page</h1>
 	</div>
-	<div class="column">
-		<img class="img-center-circle" src="https://drive.google.com/uc?id=1w7cMntBKysDqBxrRFsAaCwHFaTIVckA1" alt=""/></img>
+	<div class="rightpane">
+		<div class="toppane">
+    <h1>Test Page</h1>
+		</div>
+		<div class="middlepane">
+		<h1> this is where the picture will go </h1>
+		</div>
 	</div>
-	<div class="column">
-		<img class="img-center-circle" src="https://drive.google.com/uc?id=0Bw31lrAMa7gyYUpwUXVDQVhJd3BVX1QxQzRObEZtLW9EWmNF" alt=""/></img>
-	</div>
+	<div class="feature-panel">
+	<h1> test feature panel </h1>
+	<h1> I <br> Don't <br> understand <br> </h1>
+	</div>	
 </div>
-
-
-<p> If you would like a custom order, please contact me via: Chelseamanners@aol.com. <br> 
-I will let you know if I have these items available and how long it will take me to complete them! </p>
-
 </body>
-
 </html>
