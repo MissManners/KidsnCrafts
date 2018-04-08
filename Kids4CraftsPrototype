@@ -7,18 +7,21 @@
 	<div class="container">
 	<div class="leftpane">
     <h1>Test Page</h1>
+	    <img src="https://drive.google.com/uc?id=1VHGp8QbsojeY0voYtQj6SatoQL-G0u0X" alt="Stove" style="width:100%">
+		<img src="https://drive.google.com/uc?id=1w7cMntBKysDqBxrRFsAaCwHFaTIVckA1" alt="dumpling" style="width:100%"/>
 	</div>
 	<div class="rightpane">
 		<div class="toppane">
-    <h1>Test Page</h1>
+		<img src="https://drive.google.com/uc?id=0Bw31lrAMa7gyWjV3azhuRG1OdWs" alt="title" class="center" />
 		</div>
 		<div class="middlepane">
-		<h1> this is where the picture will go </h1>
+		<img src="https://drive.google.com/uc?id=1WCRCDhnAOdf7ehi2z_CFPyqpohjT0UxI" alt="feature" class="center" />
 		</div>
 	</div>
 	<div class="feature-panel">
-	<h1> test feature panel </h1>
-	<h1> I <br> Don't <br> understand <br> </h1>
+		<img src="https://drive.google.com/uc?id=1pLolWl4htjstYTrDbEmUrZpxRs3EXgTh" alt="some" />
+		<img src="https://drive.google.com/uc?id=1-E_nnLNGwe4rG1IOiEqm1EUyN6ZQbBjg" alt="book" />
+		<img src="https://drive.google.com/uc?id=1ndRjWn8K1H448Vhu_F5JmxkKb986lz56" alt="giftbag"/>
 	</div>	
 </div>
 </body>

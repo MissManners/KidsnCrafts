@@ -4,6 +4,12 @@ body, html {
 	margin: 20;
 	background-image: url("https://drive.google.com/uc?id=1jY1XfDrY1mL2HhCpeYCx-iQhrvuAUeLZ");
 }
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
 
 .container {
   width: 100%;
@@ -15,9 +21,9 @@ body, html {
     width: 15%;
     height: 70%;
     float: left;
-    background-color: rosybrown;
+    /*background-color: rosybrown;*/
+	background-color: rgba(188,143,143,.6);
     border-collapse: collapse;
-	/*padding: 1px;*/
 }
 
 .rightpane {
@@ -25,15 +31,24 @@ body, html {
   height: 70%;
   position: relative;
   float: left;
-  background-color: yellow;
+  /*background-color: yellow;*/
+/*background-color: rgba(188,143,143,.6);*/
   border-collapse: collapse;
-	margin: 10;
 }
 .toppane {
-  width: 100%;
+	width: 100%;
+	height: 25%;
   /*height: 100px;*/
-  border-collapse: collapse;
-  background-color: #4da6ff;
+	border-collapse: collapse;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+.toppane img{
+    flex-shrink: 0;
+    min-width: 75%;
+    min-height: 25%;
 }
 .feature-panel{
 	width: 100%;
@@ -41,7 +56,7 @@ body, html {
 	border-collapse: collapse;
 }
 .middlepane {
-    width: 50%;
-    background-color: royalblue;
+    width: 100%;
+    /*background-color: royalblue;*/
     border-collapse: collapse;
 }
