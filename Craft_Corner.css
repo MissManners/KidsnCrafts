@@ -1,4 +1,5 @@
 body, html {
+	color: white;
 	width: 100%;
 	height: 100%;
 	margin: 20;
@@ -66,11 +67,15 @@ background-color: rgba(188,143,143,.6);
     border-collapse: collapse;
 }
 
-.p{
-	   color: white; 
-   font: bold 24px/45px Helvetica, Sans-Serif; 
+h1{
+	text-align: center;
+	color: rgb(255,20,147); 
+   font: bold 45px Tahoma,Geneva, Sans-Serif; 
    letter-spacing: -1px;  
-   background: rgb(0, 0, 0); /* fallback color */
-   background: rgba(0, 0, 0, 0.7);
    padding: 10px;
+}
+p{
+
+color: rgb(0,191,255);
+  font: bold 25px Tahoma,Geneva, Sans-Serif; 
 }

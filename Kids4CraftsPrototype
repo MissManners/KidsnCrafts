@@ -6,13 +6,14 @@
 <body>
 	<div class="container">
 	<div class="leftpane">
-    <h1>Test Page</h1>
+    <h1>Mini is my life!</h1>
 		<img src="https://drive.google.com/uc?id=1WCRCDhnAOdf7ehi2z_CFPyqpohjT0UxI" alt="feature" style="width:100%" /> 
 		<img src="https://drive.google.com/uc?id=1VHGp8QbsojeY0voYtQj6SatoQL-G0u0X" alt="Stove" style="width:100%"/>
 		<!--<img src="https://drive.google.com/uc?id=1w7cMntBKysDqBxrRFsAaCwHFaTIVckA1" alt="dumpling" style="width:100%" />-->
 		<!--<img src="https://drive.google.com/uc?id=1I600bApcudmm8Lu_W-ypvXpBPyzQQhNW" alt="pretty-kitty" style="width:100%"/>-->
 		<img src="https://drive.google.com/uc?id=0Bw31lrAMa7gyYUNBZjlxUmJMeGhyTEdVS1ZKeUdiNERxRTBN" alt="fluff" style="width:100%"/>
 		<!--<img src="https://drive.google.com/uc?id=0Bw31lrAMa7gyaWZsSTlsWHFQMXBGNWZHSHJDQ3BwREdCUzhv" alt="foxhole" style="width:100%" />-->
+		<iframe width="100%" height="25%" src="https://www.youtube.com/embed/bdSJJ_R9R1s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	</div>
 	<div class="rightpane">
 		<div class="toppane">
@@ -26,7 +27,7 @@
 		<img src="https://drive.google.com/uc?id=1_ZFGNB7j9Il9CfD5kWg01xckTMmYqV4A" alt="eagle" />
 		</div>
 		<p> I currently specialize in tiny toys such as: <br>
-			- Foxes<br>- Eagles<br>- Hamsters<br> However, I am always looking for custom orders (as long as they're reasonable!). Please feel free to contact me at Chelseamanners@aol.com.</p>
+			-- Foxes<br>-- Eagles<br>-- Hamsters<br> However, I am always looking for custom orders (as long as they're reasonable!)<br>Please feel free to contact me at Chelseamanners@aol.com.</p>
 	</div>
 <!--	<div class="feature-panel">
 
