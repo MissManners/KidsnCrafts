@@ -2,7 +2,7 @@ body, html {
 	color: white;
 	width: 100%;
 	height: 100%;
-	margin: 20;
+	margin: 50;
 	background-image: url("https://drive.google.com/uc?id=1jY1XfDrY1mL2HhCpeYCx-iQhrvuAUeLZ");
 }
 .center{
@@ -49,11 +49,7 @@ background-color: rgba(188,143,143,.6);
     align-items: center;
     overflow: hidden
 }
-.toppane img{
-    flex-shrink: 0;
-    min-width: 75%;
-    min-height: 25%;
-}
+
 .feature-panel{
 	width: 100%;
 	height: 30%;
@@ -61,17 +57,15 @@ background-color: rgba(188,143,143,.6);
 }
 .middlepane {
     width: 100%;
-    /*background-color: royalblue;*/
 	display: inline-block;
 	text-align: center;
     border-collapse: collapse;
 }
-
+/*Text Modifications*/
 h1{
 	text-align: center;
 	color: rgb(255,20,147); 
    font: bold 45px Tahoma,Geneva, Sans-Serif; 
-   letter-spacing: -1px;  
    padding: 10px;
 }
 p{
